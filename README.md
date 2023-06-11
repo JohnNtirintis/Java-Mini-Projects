@@ -1,4 +1,4 @@
-# Java Mini Projects - Chapter 10
+# Java Mini Projects
 
 This repository contains the source code for the ten mini projects developed as a part of Chapter 10 from the Full-Stack Development Bootcamp by the Athens University of Economics and Business (AUEB).
 
